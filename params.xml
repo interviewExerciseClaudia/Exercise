@@ -1,0 +1,6 @@
+<property name="url">
+    <value>${url}</value>
+</property>
+<property name="acceptCooki">
+    <value>true</value>
+</property>
